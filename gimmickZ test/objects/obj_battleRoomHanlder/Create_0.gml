@@ -1,0 +1,15 @@
+global.isbattleroom = false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
